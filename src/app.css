@@ -1,1 +1,13 @@
 @import 'tailwindcss';
+
+.font1 {
+    font-family: 'Russo One', monospace;
+}
+
+.font2 {
+    font-family: 'Google Sans Code', sans-serif;
+}
+
+.font3 {
+    font-family: 'Bitcount Prop Single', system-ui;
+}

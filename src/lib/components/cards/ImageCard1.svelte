@@ -2,9 +2,10 @@
     export let city = "Cidade"
     export let description = "Descrição"
     export let img = ""
-    export let link = "href"
+    export let href = "href"
 </script>
 
+<a href={href}>
 <div
   class="relative max-w-md aspect-[16:9] rounded-md overflow-hidden transition-all duration-100 shadow shadow-neutral-400 hover:-translate-y-1 hover:shadow-sky-400 cursor-pointer"
 >
@@ -22,3 +23,5 @@
     </p>
   </div>
 </div>
+</a>
+

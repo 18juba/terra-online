@@ -12,7 +12,8 @@
         city="Fortaleza"
         description="A capital do Ceará é famosa por suas praias e cultura vibrante"
         img="https://turismo.b-cdn.net/wp-content/uploads/2013/01/Fortaleza-a-capital-do-Ceara.webp"
-      />
+        href="cidades/fortaleza"
+        />
       <ImageCard1
         city="Manaus"
         description="Localizada no coração da Amazônia, famosa por sua rica história, cultura diversificada e paisagens naturais deslumbrantes"
